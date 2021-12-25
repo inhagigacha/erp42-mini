@@ -1,3 +1,4 @@
 # erp42-mini
 
-Hello world
+cd new_mini
+python3 serial_io.py
